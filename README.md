@@ -1,16 +1,14 @@
-## Hi there 👋
+## Research / Data Analysis
 
-<!--
-**TomoyaHonke/TomoyaHonke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [clustering_pipeline](https://github.com/TomoyaHonke/clustering_pipeline)
+- [ELG_targetselection](https://github.com/TomoyaHonke/ELG_targetselection)
 
-Here are some ideas to get you started:
+## Software / Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Internship_Manager](https://github.com/TomoyaHonke/Internship_Manager)
+
+## Game Development
+
+- [Fatebound](https://github.com/TomoyaHonke/Fatebound)
+- [ruin-path](https://github.com/TomoyaHonke/ruin-path)
+- [rpg](https://github.com/TomoyaHonke/rpg)
